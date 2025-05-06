@@ -26,7 +26,7 @@ API completa para controle de produtos e movimentações de estoque, desenvolvid
 2. **Suba o container**
    ```bash
    docker-compose build
-   docker-compose up-d
+   docker-compose up -d
 ### Acesso em:
 Swagger UI: http://localhost:8000/docs
 
